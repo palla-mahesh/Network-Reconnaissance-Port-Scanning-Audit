@@ -1,0 +1,9 @@
+# IMPORTANT EVIDENCE NOTE
+# These files contain verified local listener data collected in the packaging environment.
+# They are NOT claimed to be output produced by Nmap.
+# Run recon_audit.sh on Kali Linux against your authorized target to replace these files
+# with genuine Nmap output before final submission.
+
+Preflight TCP listener verification for 127.0.0.1
+Date: 02 October 2026
+Verified open TCP ports: 1384, 8080, 33587, 35075, 36329, 41871, 50479, 54317

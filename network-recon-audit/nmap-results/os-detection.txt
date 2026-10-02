@@ -1,0 +1,10 @@
+# IMPORTANT EVIDENCE NOTE
+# These files contain verified local listener data collected in the packaging environment.
+# They are NOT claimed to be output produced by Nmap.
+# Run recon_audit.sh on Kali Linux against your authorized target to replace these files
+# with genuine Nmap output before final submission.
+
+OS fingerprinting status
+Nmap OS detection was not executed in the packaging environment.
+Kernel observed by the packaging environment: Linux b9be67943abe 6.18.44 #1 SMP Sat Sep 26 20:02:31 UTC 2026 x86_64 GNU/Linux
+Do not treat this kernel string as Nmap OS detection.

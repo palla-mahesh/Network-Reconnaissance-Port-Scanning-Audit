@@ -1,0 +1,10 @@
+# IMPORTANT EVIDENCE NOTE
+# These files contain verified local listener data collected in the packaging environment.
+# They are NOT claimed to be output produced by Nmap.
+# Run recon_audit.sh on Kali Linux against your authorized target to replace these files
+# with genuine Nmap output before final submission.
+
+Complete-scan status
+The packaging environment cannot honestly label local baseline data as Nmap output.
+Use recon_audit.sh on Kali to generate:
+  sudo nmap -sS -sV -O <TARGET> -oN nmap-results/complete-scan.txt

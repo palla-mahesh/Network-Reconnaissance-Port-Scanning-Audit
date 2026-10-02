@@ -1,0 +1,10 @@
+# IMPORTANT EVIDENCE NOTE
+# These files contain verified local listener data collected in the packaging environment.
+# They are NOT claimed to be output produced by Nmap.
+# Run recon_audit.sh on Kali Linux against your authorized target to replace these files
+# with genuine Nmap output before final submission.
+
+Host discovery scope
+Packaging baseline target: 127.0.0.1 (local host only).
+For the actual assignment, use the authorized sandbox target/network and run:
+sudo nmap -sn <AUTHORIZED_NETWORK>

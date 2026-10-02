@@ -1,0 +1,23 @@
+# IMPORTANT EVIDENCE NOTE
+# These files contain verified local listener data collected in the packaging environment.
+# They are NOT claimed to be output produced by Nmap.
+# Run recon_audit.sh on Kali Linux against your authorized target to replace these files
+# with genuine Nmap output before final submission.
+
+Local service/banner verification
+Target: 127.0.0.1
+Confirmed HTTP listeners:
+
+PORT 1384/tcp
+HTTP/1.1 404 Not Found
+date: Fri, 02 Oct 2026 17:07:39 GMT
+server: uvicorn
+content-length: 22
+
+PORT 8080/tcp
+HTTP/1.1 404 Not Found
+date: Fri, 02 Oct 2026 17:07:39 GMT
+server: uvicorn
+content-length: 22
+
+Other verified TCP ports are reported only as open listeners; no service/version is asserted without Nmap/service enumeration.
